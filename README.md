@@ -1,4 +1,4 @@
-# Bootcamp Prep Node Intro
+# Community Bootcamp Node Intro
 
 Hello! Welcome to the Introduction to Node course in the Community Bootcamp! 
 
